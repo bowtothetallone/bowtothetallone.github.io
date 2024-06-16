@@ -134,7 +134,10 @@ hr {
 		padding: 1em;
 	}
 }
-
+div (max-width: 720px) {
+	text-align: center;
+	display: block;
+}
 .sr-only {
 	border: 0;
 	padding: 0;
