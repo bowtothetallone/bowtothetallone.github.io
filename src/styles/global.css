@@ -5,40 +5,41 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
+	--accent: #3676b3;
+	--accent-dark: #214773;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
-	--gray-dark: 34, 41, 57;
+	--gray-dark: #0a131f;
+	--gray-bkg: #142030;
 	--gray-gradient: rgba(var(--gray-light), 50%), #fff;
-	--box-shadow: 0 2px 6px rgba(var(--gray), 25%), 0 8px 24px rgba(var(--gray), 33%),
-		0 16px 32px rgba(var(--gray), 33%);
+	--box-shadow: 0 2px 6px rgba(var(--black), 25%), 0 8px 24px rgba(var(--black), 33%),
+		0 16px 32px rgba(var(--black), 33%);
 }
 @font-face {
-	font-family: 'Atkinson';
-	src: url('/fonts/atkinson-regular.woff') format('woff');
+	font-family: 'Montserrat';
+	src: url('/fonts/Montserrat-Regular.woff') format('woff');
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
 }
 @font-face {
-	font-family: 'Atkinson';
-	src: url('/fonts/atkinson-bold.woff') format('woff');
+	font-family: 'Montserrat';
+	src: url('/fonts/Montserrat-Bold.woff') format('woff');
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
 }
 body {
-	font-family: 'Atkinson', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	background: linear-gradient(var(--gray-gradient)) no-repeat;
+	background: var(--gray-bkg);
 	background-size: 100% 600px;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
-	color: rgb(var(--gray-dark));
+	color: rgb(var(--gray-light));
 	font-size: 20px;
 	line-height: 1.7;
 }
@@ -55,8 +56,9 @@ h4,
 h5,
 h6 {
 	margin: 0 0 0.5rem 0;
-	color: rgb(var(--black));
+	color: rgb(var(--gray-light));
 	line-height: 1.2;
+	text-align: center;
 }
 h1 {
 	font-size: 3.052em;
@@ -100,7 +102,7 @@ table {
 	width: 100%;
 }
 img {
-	max-width: 100%;
+	width: 100%;
 	height: auto;
 	border-radius: 8px;
 }
@@ -133,10 +135,6 @@ hr {
 	main {
 		padding: 1em;
 	}
-}
-div (max-width: 720px) {
-	text-align: center;
-	display: block;
 }
 .sr-only {
 	border: 0;

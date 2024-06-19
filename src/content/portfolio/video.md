@@ -5,7 +5,7 @@ pubDate: 'Jan 1 2023'
 heroImage: '/images/cindy.jpg'
 ---
 # Resilient Hope
-I am an alumni of Columbine High School and survived the tragedy that occurred there in April of 1999. In the years after, I gathered a few friends to film our stories, in the hopes of providing some comfort for others who have experienced public violence. Here is the project's href="https://www.youtube.com/@1resilienthope">YouTube channel.</a>
+I am an alumni of Columbine High School and survived the tragedy that occurred there in April of 1999. In the years after, I gathered a few friends to film our stories, in the hopes of providing some comfort for others who have experienced public violence. Here is the project's <a href="https://www.youtube.com/@1resilienthope" target="_blank">YouTube channel.</a>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/rLcUc8UTdyo" title="Cindy Maudsley - Columbine Survivor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -29,7 +29,7 @@ I volunteered with Affirmation for a number of projects, from web design to even
 <iframe width=100% height="400" src="https://www.youtube.com/embed/lApn_97zaYQ" title="Celebrate the Light Within - 2015 Affirmation Conference" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # LDS Walk With You
-I worked with a small team of 4 to interview dozens of affirming families of LGBT children who came from an LDS heritage from 2014 to 2017. I edited our trailer and the majority of content on LDS Walk With You's <a href="https://www.youtube.com/@ldswalkwithyou">Youtube Channel</a>.
+I worked with a small team of 4 to interview dozens of affirming families of LGBT children who came from an LDS heritage from 2014 to 2017. I edited our trailer and the majority of content on LDS Walk With You's <a href="https://www.youtube.com/@ldswalkwithyou" target="_blank">Youtube Channel</a>.
 
 <iframe width=100% height="400" src="https://www.youtube.com/embed/sGGIqnW21gc" title="LDSwalkwithyou.org" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

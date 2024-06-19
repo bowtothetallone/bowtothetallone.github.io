@@ -22,15 +22,17 @@ heroImage: '/images/yeehaw-hero.jpg'
 ![A promotional poster for the Youtube show Ray and Clovis](/images/all-that-jazz-poster.jpg)
 
 # Moore Good Ideas
+## Tradeshow Graphic
 I designed the below tradeshow graphic that features icons for software tools that Moore Good Ideas created.
 ![A tradeshow graphic of the inside a treasure vault, featuring icon graphics for software tools that Moore Good Ideas created](/images/mgi-tradeshow.jpg)
-A closer look at the software tool icons that I designed for Moore Good Ideas.
+
+## Software Graphics
+A closer look at the software tool graphics that I designed for Moore Good Ideas.
 ![A digital illustration of a blue bald eagle perched upon an arm](/images/mgi-icon_afmm.jpg)
 ![A digital illustration featuring scenes where an explorer attempts to cross a ravine](/images/mgi-icon_cmb.jpg)
 ![A digital illustration of an explorer reading a scroll in an ancient space](/images/mgi-icon_lib.jpg)
 ![A digital illustration of an explorer climbing a stepped pyramid](/images/mgi-icon_ma.jpg)
 ![A digital illustration of an explorer entering a tomb](/images/mgi-icon_se.jpg)
-
 
 # Coloring Outside the Lines
 A few years ago I created and self-published a 54 paged coloring book featuring LGBT icons.
@@ -45,5 +47,4 @@ A few years ago I created and self-published a 54 paged coloring book featuring 
 ![A coloring book page featuring Janet Mock](/images/janet.jpg)
 ![A coloring book page featuring Sally Ride](/images/sally.jpg)
 ![A coloring book page featuring Ruby Rose](/images/ruby.jpg)
-![A coloring book page featuring Laverne Cox](/images/laverne-square.jpg)
 ![A coloring book page featuring Kye Allums](/images/kye.jpg)
