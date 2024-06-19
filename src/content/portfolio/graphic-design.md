@@ -15,7 +15,7 @@ We launched a few different tradeshow booth designs while I worked for GlyMed Pl
 ![Tradeshow booth for previous branding](/images/glymed-booth.jpg)
 
 ## Social Media Graphics
-My team and I launched several new products for GlyMed Plus. I designed a variety of social media content for those products, and also created accompanying video content which can be <a href="https://jfcgallery.com/portfolio/video.md">found at this link</a>.
+My team and I launched several new products for GlyMed Plus. I designed a variety of social media content for those products, and also created accompanying video content which can be <a href="https://jfcgallery.com/portfolio/video/">found at this link</a>.
 ![An graphic featuring ingredients for the Fulvic Elixir, a product by GlyMed Plus.](/images/fulvic-elixir.jpg)
 ![An graphic featuring Diamond Bright Skin Lightener, a product by GlyMed Plus](/images/diamond-bright.jpg)
 
