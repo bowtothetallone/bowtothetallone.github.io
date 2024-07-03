@@ -29,11 +29,11 @@ Our team designed and published dozens of print ads in various magazines to driv
 
 # Teething Toes
 ## Logo Design
-![A logo designed for the Teething Toes product line](/images/teething-toes-logo.jpg)
+![A logo designed for the Teething Toes baby product line](/images/teething-toes-logo.jpg)
 ## Tradeshow Graphics
-![Booth graphics designed for the Teething Toes product line](/images/teething-toes-popup.jpg)
+![Booth graphics designed for the Teething Toes baby product line](/images/teething-toes-popup.jpg)
 ## Packaging
-![Packaging designed for the Teething Toes product line](/images/teething-toes.jpg)
+![Packaging designed for the Teething Toes baby product line](/images/teething-toes.jpg)
 
 # Additional Logo Designs
 This is a small sample of logo designs that I have created over the years.
